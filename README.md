@@ -93,4 +93,3 @@ Interfaces de l'application
 
 
 
-Appliquer un thème dans une application Android
